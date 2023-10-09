@@ -1,0 +1,3 @@
+Press the Esc key to ensure you are in command mode.
+Type :q and then press Enter.
+to save and exit vi, use :wq.
